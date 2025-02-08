@@ -1,0 +1,3 @@
+python-telegram-bot
+faiss-cpu
+sentence-transformers
