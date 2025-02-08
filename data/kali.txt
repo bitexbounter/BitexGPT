@@ -1,0 +1,4 @@
+Basic Kali Linux commands:
+1. nmap - Network scanning
+2. netstat - Active connections dekhne ke liye
+3. hydra - Password brute force attack
